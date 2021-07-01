@@ -1,0 +1,113 @@
+2019-02-28 17-11-19   ---   {"total":3, "rows":[{"DP_ID":"2016070400003411", "Number_Code":"03805", "Dp_TcCode":"", "DP_Name":"\u5E74\u7CD5", "DP_Abbreviation":"\u5E74\u7CD5", "DP_PY":"NG", "DP_Unit":"\u4EFD", "DP_Price":7, "DP_MemberPrice":7, "DP_KindIdP":"2016070400003315", "DP_KindIdC":"2016070400003345", "DP_KindP_Name":"\u9999\u9505", "DP_KindC_Name":"\u8C46\u5236\u54C1\u7C7B", "IsDiscount":true, "IsTimePricedDish":null, "IsModification":null, "IsLimited":null, "IsServiceFee":null, "IsConsignment":null, "IsPackage":false, "IsTiming":false, "DP_Creater":null, "DP_IsDelete":false, "DP_CreateTime":null, "DP_UpdateTime":"2019\/2\/27 14:10:33", "DP_PrinterId":null, "DP_FoodReq":null, "DP_IsBan":false, "Dp_IsSingleCut":null}, {"DP_ID":"2016070400003413", "Number_Code":"03807", "Dp_TcCode":"", "DP_Name":"\u6CB9\u8C46\u76AE", "DP_Abbreviation":"\u6CB9\u8C46\u76AE", "DP_PY":"YDP", "DP_Unit":"\u4EFD", "DP_Price":6, "DP_MemberPrice":6, "DP_KindIdP":"2016070400003315", "DP_KindIdC":"2016070400003345", "DP_KindP_Name":"\u9999\u9505", "DP_KindC_Name":"\u8C46\u5236\u54C1\u7C7B", "IsDiscount":true, "IsTimePricedDish":null, "IsModification":null, "IsLimited":null, "IsServiceFee":null, "IsConsignment":null, "IsPackage":false, "IsTiming":false, "DP_Creater":null, "DP_IsDelete":false, "DP_CreateTime":null, "DP_UpdateTime":"2019\/2\/27 14:10:33", "DP_PrinterId":null, "DP_FoodReq":null, "DP_IsBan":false, "Dp_IsSingleCut":null}, {"DP_ID":"2016070400003425", "Number_Code":"04112", "Dp_TcCode":"", "DP_Name":"\u79D8\u5236\u51C9\u76AE", "DP_Abbreviation":"\u79D8\u5236\u51C9\u76AE", "DP_PY":"MZLP", "DP_Unit":"\u4EFD", "DP_Price":15, "DP_MemberPrice":15, "DP_KindIdP":"2016070400003316", "DP_KindIdC":"2016070400003349", "DP_KindP_Name":"\u4E3B\u98DF", "DP_KindC_Name":"\u98CE\u5473\u5C0F\u5403\u7C7B", "IsDiscount":true, "IsTimePricedDish":null, "IsModification":null, "IsLimited":null, "IsServiceFee":null, "IsConsignment":null, "IsPackage":false, "IsTiming":false, "DP_Creater":null, "DP_IsDelete":false, "DP_CreateTime":null, "DP_UpdateTime":"2019\/2\/27 14:10:33", "DP_PrinterId":null, "DP_FoodReq":null, "DP_IsBan":false, "Dp_IsSingleCut":null}]}
+2019-02-28 17-11-31   ---   <font face="Arial" size=2><p>Microsoft VBScript ���������� '800a03f5'
+<p>ȱ�� 'To'
+<p>\api\110302\HanZiDiner\DCB\AddOrder.asp, line 44</font><p><hr>
+<small>Host by <a href="http://www.netbox.cn" target="_blank">NetBox Version 2.8 Build 4128</a></small>
+</body></html>
+2019-02-28 17-11-36   ---   <font face="Arial" size=2><p>Microsoft VBScript ���������� '800a03f5'
+<p>ȱ�� 'To'
+<p>\api\110302\HanZiDiner\DCB\AddOrder.asp, line 44</font><p><hr>
+<small>Host by <a href="http://www.netbox.cn" target="_blank">NetBox Version 2.8 Build 4128</a></small>
+</body></html>
+2019-02-28 17-14-08   ---   <font face="Arial" size=2><p>Microsoft VBScript ���������� '800a03f5'
+<p>ȱ�� 'To'
+<p>\api\110302\HanZiDiner\DCB\AddOrder.asp, line 46</font><p><hr>
+<small>Host by <a href="http://www.netbox.cn" target="_blank">NetBox Version 2.8 Build 4128</a></small>
+</body></html>
+2019-02-28 17-15-28   ---   <font face="Arial" size=2><p>Microsoft VBScript ����ʱ���� '800a000d'
+<p>���Ͳ�ƥ��: 'Ubound'
+<p>\api\110302\HanZiDiner\DCB\AddOrder.asp, line 44</font><p><hr>
+<small>Host by <a href="http://www.netbox.cn" target="_blank">NetBox Version 2.8 Build 4128</a></small>
+</body></html>
+2019-02-28 17-15-49   ---   <font face="Arial" size=2><p>Microsoft VBScript ����ʱ���� '800a000d'
+<p>���Ͳ�ƥ��: 'Ubound'
+<p>\api\110302\HanZiDiner\DCB\AddOrder.asp, line 44</font><p><hr>
+<small>Host by <a href="http://www.netbox.cn" target="_blank">NetBox Version 2.8 Build 4128</a></small>
+</body></html>
+2019-02-28 17-16-39   ---   <font face="Arial" size=2><p>Microsoft VBScript ����ʱ���� '800a000d'
+<p>���Ͳ�ƥ��: 'Ubound'
+<p>\api\110302\HanZiDiner\DCB\AddOrder.asp, line 44</font><p><hr>
+<small>Host by <a href="http://www.netbox.cn" target="_blank">NetBox Version 2.8 Build 4128</a></small>
+</body></html>
+2019-02-28 17-17-14   ---   <font face="Arial" size=2><p>Microsoft VBScript ����ʱ���� '800a000d'
+<p>���Ͳ�ƥ��: 'Ubound'
+<p>\api\110302\HanZiDiner\DCB\AddOrder.asp, line 44</font><p><hr>
+<small>Host by <a href="http://www.netbox.cn" target="_blank">NetBox Version 2.8 Build 4128</a></small>
+</body></html>
+2019-02-28 17-17-17   ---   03805, 03807, 04112
+2019-02-28 17-17-27   ---   <font face="Arial" size=2><p>Microsoft VBScript ����ʱ���� '800a000d'
+<p>���Ͳ�ƥ��: 'Ubound'
+<p>\api\110302\HanZiDiner\DCB\AddOrder.asp, line 45</font><p><hr>
+<small>Host by <a href="http://www.netbox.cn" target="_blank">NetBox Version 2.8 Build 4128</a></small>
+</body></html>
+2019-02-28 17-24-10   ---   <font face="Arial" size=2><p>Microsoft VBScript ����ʱ���� '800a000d'
+<p>���Ͳ�ƥ��
+<p>\api\110302\HanZiDiner\DCB\TestAsp.asp, line 4</font><p><hr>
+<small>Host by <a href="http://www.netbox.cn" target="_blank">NetBox Version 2.8 Build 4128</a></small>
+</body></html>
+2019-02-28 17-24-33   ---   <font face="Arial" size=2><p>Microsoft VBScript ����ʱ���� '800a000d'
+<p>���Ͳ�ƥ��
+<p>\api\110302\HanZiDiner\DCB\TestAsp.asp, line 4</font><p><hr>
+<small>Host by <a href="http://www.netbox.cn" target="_blank">NetBox Version 2.8 Build 4128</a></small>
+</body></html>
+2019-02-28 17-24-38   ---   <font face="Arial" size=2><p>Microsoft VBScript ����ʱ���� '800a000d'
+<p>���Ͳ�ƥ��
+<p>\api\110302\HanZiDiner\DCB\TestAsp.asp, line 3</font><p><hr>
+<small>Host by <a href="http://www.netbox.cn" target="_blank">NetBox Version 2.8 Build 4128</a></small>
+</body></html>
+2019-02-28 17-26-48   ---   <font face="Arial" size=2><p>Microsoft VBScript ����ʱ���� '800a000d'
+<p>���Ͳ�ƥ��
+<p>\api\110302\HanZiDiner\DCB\TestAsp.asp, line 3</font><p><hr>
+<small>Host by <a href="http://www.netbox.cn" target="_blank">NetBox Version 2.8 Build 4128</a></small>
+</body></html>
+2019-02-28 17-26-52   ---   <font face="Arial" size=2><p>Microsoft VBScript ����ʱ���� '800a000d'
+<p>���Ͳ�ƥ��
+<p>\api\110302\HanZiDiner\DCB\TestAsp.asp, line 3</font><p><hr>
+<small>Host by <a href="http://www.netbox.cn" target="_blank">NetBox Version 2.8 Build 4128</a></small>
+</body></html>
+2019-02-28 17-28-13   ---   <font face="Arial" size=2><p>Microsoft VBScript ����ʱ���� '800a000d'
+<p>���Ͳ�ƥ��
+<p>\api\110302\HanZiDiner\DCB\TestAsp.asp, line 6</font><p><hr>
+<small>Host by <a href="http://www.netbox.cn" target="_blank">NetBox Version 2.8 Build 4128</a></small>
+</body></html>
+2019-02-28 17-29-25   ---   2
+2019-02-28 17-29-39   ---   2
+2019-02-28 17-29-45   ---   2
+2019-02-28 17-29-48   ---   2
+2019-02-28 17-30-14   ---   <font face="Arial" size=2><p>Microsoft VBScript ����ʱ���� '800a01a8'
+<p>ȱ�ٶ���: 'CQ'
+<p>\api\110302\HanZiDiner\DCB\TestAsp.asp, line 2</font><p><hr>
+<small>Host by <a href="http://www.netbox.cn" target="_blank">NetBox Version 2.8 Build 4128</a></small>
+</body></html>
+2019-02-28 17-30-27   ---   2
+2019-02-28 17-32-09   ---   2
+2019-02-28 17-32-12   ---   ���,�Ͷ�Ƥ,������Ƥ,
+2019-02-28 17-32-21   ---   ���,�Ͷ�Ƥ,������Ƥ,
+2019-02-28 17-32-59   ---   <font face="Arial" size=2><p>Microsoft VBScript ����ʱ���� '800a0009'
+<p>�±�Խ��: 'I'
+<p>\api\110302\HanZiDiner\DCB\AddOrder.asp, line 50</font><p><hr>
+<small>Host by <a href="http://www.netbox.cn" target="_blank">NetBox Version 2.8 Build 4128</a></small>
+</body></html>
+2019-02-28 17-33-28   ---   <font face="Arial" size=2><p>Microsoft VBScript ����ʱ���� '800a0009'
+<p>�±�Խ��: 'I'
+<p>\api\110302\HanZiDiner\DCB\AddOrder.asp, line 50</font><p><hr>
+<small>Host by <a href="http://www.netbox.cn" target="_blank">NetBox Version 2.8 Build 4128</a></small>
+</body></html>
+2019-02-28 17-34-04   ---   3
+2019-02-28 17-34-16   ---   3<font face="Arial" size=2><p>Microsoft VBScript ����ʱ���� '800a0009'
+<p>�±�Խ��: 'I'
+<p>\api\110302\HanZiDiner\DCB\AddOrder.asp, line 51</font><p><hr>
+<small>Host by <a href="http://www.netbox.cn" target="_blank">NetBox Version 2.8 Build 4128</a></small>
+</body></html>
+2019-02-28 17-34-38   ---   3���,�Ͷ�Ƥ,������Ƥ,
+2019-02-28 17-41-59   ---   ���,�Ͷ�Ƥ,������Ƥ,
+2019-02-28 17-43-28   ---   ���,�Ͷ�Ƥ,������Ƥ,
+2019-02-28 17-47-08   ---   <font face="Arial" size=2><p>Microsoft VBScript ����ʱ���� '800a000d'
+<p>���Ͳ�ƥ��
+<p>\api\110302\HanZiDiner\DCB\AddOrder.asp, line 56</font><p><hr>
+<small>Host by <a href="http://www.netbox.cn" target="_blank">NetBox Version 2.8 Build 4128</a></small>
+</body></html>
+2019-02-28 17-47-18   ---   7,6,15,
+2019-02-28 17-52-45   ---   7,6,15,
+2019-02-28 17-53-25   ---   7,228,15230,
+2019-02-28 17-59-23   ---   7,228,15230,
